@@ -13,15 +13,15 @@ API que permite la gestión de clientes, contando con seguridad a través de gen
 
 Esta versión implementa 4 Endpoints:
 
-- **Método VALIDAR**: Permite la validación del usuario en base a su correo y contraseña. 
+- **VALIDAR**: Permite la validación del usuario en base a su correo y contraseña. 
 Si la validación es exitosa, genera un token que permite consumir de forma correcta el 
 resto de endpoints.
 
-- **Método CREATECLIENT**: Permite la creación de un nuevo cliente.
+- **CREATECLIENT**: Permite la creación de un nuevo cliente.
 
-- **Método UPDATECLIENTBYID**: Permite actualizar un cliente en base a su ID.
+- **UPDATECLIENTBYID**: Permite actualizar un cliente en base a su ID.
 
-- **Método GETCLIENTBYID**: Permite la recuperación de un cliente por su respectivo ID.
+- **GETCLIENTBYID**: Permite la recuperación de un cliente por su respectivo ID.
 
 ## **Requerimientos**
 - .NET Core 7.0 o superior.
