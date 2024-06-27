@@ -30,6 +30,8 @@ resto de endpoints.
 - Documentación disponible a través de Swagger, luego de obtener, compilar y ejecutar el proyecto.
 
 ## **Pruebas sobre la API**
+Se dispone de un archivo con la configuración para realizar las pruebas a través de Postman. Este archivo se encuentra en el directorio "ClienteAPI".
+
 - Para generar el token de manera inicial, se debe usar cualquiera de estas 2 credenciales de los clientes existentes en la base de datos:
   1. Email: test@gmail.com - Password: 12345678
   2. Email: user@example.com - Password: hello4321
