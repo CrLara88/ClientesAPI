@@ -26,13 +26,12 @@ resto de endpoints.
 ## **Requerimientos**
 - .NET Core 7.0 o superior.
 
-## **Documentación e indicaciones**
+## **Documentación**
 - Documentación disponible a través de Swagger, luego de obtener, compilar y ejecutar el proyecto.
+
+## **Pruebas sobre la API**
 - Para generar el token de manera inicial, se debe usar cualquiera de estas 2 credenciales de los clientes existentes en la base de datos:
   1. Email: test@gmail.com - Password: 12345678
   2. Email: user@example.com - Password: hello4321
 - Para autenticar con email y password, se puede usar la de cualquier cliente existente en la base de datos. Esto en caso de crear nuevos clientes.
 - Para realizar consultas con el Endpoint "GETCLIENTBYID", se puede utilizar los usuarios ya existentes con el IdClient 1 o 2.
-
-## **Pruebas sobre la API**
------------------.
