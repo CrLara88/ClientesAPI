@@ -4,10 +4,10 @@ API que permite la gestión de clientes, contando con seguridad a través de gen
 
 ## **Contenido**
 
-1. [Notas de la Versión](https://github.com/CrLara88/ClientesAPI/tree/main#notas-de-la-versi%C3%B3n)
-2. [Requerimientos](https://github.com/CrLara88/ClientesAPI/tree/main#requerimientos)
-3. [Documentación](https://github.com/CrLara88/ClientesAPI/tree/main#documentaci%C3%B3n)
-4. [Pruebas sobre la API](https://github.com/CrLara88/ClientesAPI/tree/main#pruebas-sobre-la-api)
+- [Notas de la Versión](https://github.com/CrLara88/ClientesAPI/tree/main#notas-de-la-versi%C3%B3n)
+- [Requerimientos](https://github.com/CrLara88/ClientesAPI/tree/main#requerimientos)
+- [Documentación](https://github.com/CrLara88/ClientesAPI/tree/main#documentaci%C3%B3n)
+- [Pruebas sobre la API](https://github.com/CrLara88/ClientesAPI/tree/main#pruebas-sobre-la-api)
 
 ## **Notas de la Versión**
 
