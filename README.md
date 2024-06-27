@@ -2,7 +2,7 @@
 
 API que permite la gestión de clientes, contando con seguridad a través de generación de token (JWT).
 
-## **Contenido**
+## **Índice**
 
 - [Notas de la Versión](https://github.com/CrLara88/ClientesAPI/tree/main#notas-de-la-versi%C3%B3n)
 - [Requerimientos](https://github.com/CrLara88/ClientesAPI/tree/main#requerimientos)
