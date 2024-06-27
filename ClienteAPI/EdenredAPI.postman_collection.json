@@ -1,0 +1,153 @@
+{
+	"info": {
+		"_postman_id": "063b236b-5ec1-4fef-b54b-2c4ac46e0cbf",
+		"name": "EdenredAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14344695"
+	},
+	"item": [
+		{
+			"name": "Autenticacion/Validar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\":\"test@gmail.com\",\r\n    \"password\":\"12345678\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7127/api/Autenticacion/Validar",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7127",
+					"path": [
+						"api",
+						"Autenticacion",
+						"Validar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Client/CreateClient",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJFbWFpbCI6InRlc3RAZ21haWwuY29tIiwiUGFzc3dvcmQiOiIxMjM0NTY3OCIsImV4cCI6MTcxOTQ1NTkyNX0.hTL4pJsekepULvwQyf-oKpF3IdA-59uOrwEqMMlbfkg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nombre\": \"usuario3\",\r\n  \"apellidoPaterno\": \"apePat\",\r\n  \"apellidoMaterno\": \"ApeMat\",\r\n  \"email\": \"correo@google.cl\",\r\n  \"password\": \"99999999\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7127/api/Client/CreateClient",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7127",
+					"path": [
+						"api",
+						"Client",
+						"CreateClient"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Client/UpdateClientById",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJFbWFpbCI6InRlc3RAZ21haWwuY29tIiwiUGFzc3dvcmQiOiIxMjM0NTY3OCIsImV4cCI6MTcxOTQ1NTkyNX0.hTL4pJsekepULvwQyf-oKpF3IdA-59uOrwEqMMlbfkg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nombre\": \"Cristopher\",\r\n  \"apellidoPaterno\": \"Martinez\",\r\n  \"apellidoMaterno\": \"PRUEBA\",\r\n  \"email\": \"user@example.com\",\r\n  \"password\": \"hello4321\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7127/api/Client/UpdateClientById/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7127",
+					"path": [
+						"api",
+						"Client",
+						"UpdateClientById",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Client/GetClientById",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJFbWFpbCI6InRlc3RAZ21haWwuY29tIiwiUGFzc3dvcmQiOiIxMjM0NTY3OCIsImV4cCI6MTcxOTQ1NTkyNX0.hTL4pJsekepULvwQyf-oKpF3IdA-59uOrwEqMMlbfkg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7127/api/Client/GetClientById/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7127",
+					"path": [
+						"api",
+						"Client",
+						"GetClientById",
+						"2"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

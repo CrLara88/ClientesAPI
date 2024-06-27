@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\model\\dao\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:model\\dao\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\model\\interfaces\\iclientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:model\\interfaces\\iclientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\model\\authentication\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:model\\authentication\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|c:\\users\\cristian.lara\\source\\repos\\edenredtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F299748F-919D-43FA-B392-E2C3F01E786E}|EdenredTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,21 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-06-27T00:36:02.619Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -75,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Model\\Authentication\\User.cs",
               "RelativeDocumentMoniker": "Model\\Authentication\\User.cs",
@@ -87,20 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCIAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T16:09:04.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ClientController.cs",
               "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
@@ -112,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AutenticacionController.cs",
               "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Controllers\\AutenticacionController.cs",
               "RelativeDocumentMoniker": "Controllers\\AutenticacionController.cs",
@@ -124,31 +115,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-26T18:46:45.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ClientDao.cs",
               "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Model\\Dao\\ClientDao.cs",
               "RelativeDocumentMoniker": "Model\\Dao\\ClientDao.cs",
               "ToolTip": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Model\\Dao\\ClientDao.cs",
               "RelativeToolTip": "Model\\Dao\\ClientDao.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAowIMAAAAiAAAA",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAowIMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T22:06:39.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T18:46:45.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-27T00:36:02.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Model\\Client.cs",
+              "RelativeDocumentMoniker": "Model\\Client.cs",
+              "ToolTip": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Model\\Client.cs",
+              "RelativeToolTip": "Model\\Client.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:58:30.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ClientDto.cs",
               "DocumentMoniker": "C:\\Users\\cristian.lara\\source\\repos\\EdenredTest\\Model\\Dto\\ClientDto.cs",
               "RelativeDocumentMoniker": "Model\\Dto\\ClientDto.cs",
